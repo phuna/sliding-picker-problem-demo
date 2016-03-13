@@ -1,0 +1,13 @@
+PODS:
+  - AYSlidingPickerView (0.1.3)
+  - Reveal-iOS-SDK (1.6.2)
+
+DEPENDENCIES:
+  - AYSlidingPickerView
+  - Reveal-iOS-SDK
+
+SPEC CHECKSUMS:
+  AYSlidingPickerView: 1094ee566ea3870af4e2955359720da7c7beb211
+  Reveal-iOS-SDK: e2250b3c155bcfac53ae223ddc1f76d08f206c33
+
+COCOAPODS: 0.39.0
