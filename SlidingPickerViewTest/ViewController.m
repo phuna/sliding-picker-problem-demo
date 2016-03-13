@@ -50,7 +50,13 @@
 
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
-//    [[UIApplication sharedApplication].delegate.window sendSubviewToBack:pickerView];
+    
+    // ------------------------------------------------------
+    // PROBLEM
+    // ------------------------------------------------------
+    // With the line below commented out, problem will occur
+    //
+    // [[UIApplication sharedApplication].delegate.window sendSubviewToBack:pickerView];
 }
 
 - (void)viewWillDisappear:(BOOL)animated {
