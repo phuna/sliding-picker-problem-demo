@@ -1,2 +1,2 @@
 # sliding-picker-problem-demo
-Demo for AYSlidingPickerView issue #2
+Demo for https://github.com/yenbekbay/AYSlidingPickerView/issues/2
